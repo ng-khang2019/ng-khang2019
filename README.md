@@ -4,7 +4,7 @@
 <pre>
     👋 I'm Khang
     ❤️ Java
-    👨🏻‍💻 Learning Go
+    👨🏻‍💻 Learning Microservices
     🌱 Spring Boot Ecosystem
     📜 BC at UIT - VNUHCM
     💡 Problem solver
