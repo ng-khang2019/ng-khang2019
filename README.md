@@ -1,13 +1,12 @@
 <div align="center">
     <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />
     <br><br> -->
-<pre width=70%>
+<pre >
     👋 I'm Khang
     ❤️ Java
     🌱 Spring Boot Ecosystem
 	👨🏻‍💻 Learning Microservices
     📜 BC at UIT - VNUHCM
-    💡 Problem solver
 </pre>
 <!-- <div>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="40"></a>
