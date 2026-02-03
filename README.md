@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width=70%>
     <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />
     <br><br> -->
 <pre>
