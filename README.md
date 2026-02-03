@@ -1,7 +1,7 @@
-<div align="center" width=70%>
+<div align="center">
     <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />
     <br><br> -->
-<pre>
+<pre width=70%>
     👋 I'm Khang
     ❤️ Java
     🌱 Spring Boot Ecosystem
