@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />
-    <br><br>
+    <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />
+    <br><br> -->
 <pre>
     👋 I'm Khang
     ❤️ Java
-    👨🏻‍💻 Learning Microservices
     🌱 Spring Boot Ecosystem
+	👨🏻‍💻 Learning Microservices
     📜 BC at UIT - VNUHCM
     💡 Problem solver
 </pre>
