@@ -1,7 +1,7 @@
 <div>
     <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />-->
-<img align="right" src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/codelikeamaniac.gif" width="40%" align="right">
-<br><br> 
+<!-- <img align="right" src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/codelikeamaniac.gif" width="40%" align="right">
+<br><br>  -->
 <div width="50%">
 <pre>
 👋 I'm Khang
