@@ -1,5 +1,6 @@
 <div align="center">
-        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/techdoodle.png" >
+    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/techdoodle.png" >
+	<img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </div>
 <div align="center">
 	<!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right"
