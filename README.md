@@ -1,8 +1,7 @@
-<div>
+<div align="center">
     <!-- <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy.gif" width="35%" align="right" />-->
 <!-- <img align="right" src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/codelikeamaniac.gif" width="40%" align="right">
 <br><br>  -->
-<div width="50%">
 <pre>
 👋 I'm Khang
 ❤️ Java
@@ -11,7 +10,6 @@
 💡 Problem Solver
 👨🏻‍💻 Learning Microservices
 </pre>
-</div>
 </div>
 <!-- <div>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="40"></a>
