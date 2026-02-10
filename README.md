@@ -31,6 +31,7 @@
 </div> -->
 	
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/86f51547b2178e6fc398ce785a47ac76.gif" >
+    <!-- <img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/86f51547b2178e6fc398ce785a47ac76.gif" > -->
+	<img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/a1f8be54a08a324c83e747a8fa5ed660.gif" width="100%" height="280">
 </div>
 
