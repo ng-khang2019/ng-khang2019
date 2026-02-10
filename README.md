@@ -31,6 +31,6 @@
 </div> -->
 	
 <div align="center">
-    <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/catgang.gif" height="150">
+    <img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/86f51547b2178e6fc398ce785a47ac76.gif" >
 </div>
 
