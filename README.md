@@ -8,11 +8,12 @@
 <br><br>  -->
 <pre>
 👋 I'm Khang
-❤️ Java
-🌱 Spring Boot Ecosystem
+♨️ Java 🌱 Spring Ecosystem
+🇬 Golang Noob
 📜 BC at UIT - VNUHCM
 💡 Problem Solver
 👨🏻‍💻 Learning Microservices
+	
 </pre>
 </div>
 <!-- <div>
