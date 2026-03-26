@@ -8,10 +8,10 @@
 <br><br>  -->
 <pre>
 👋 I'm Khang
-♨️ Java 🌱 Spring Ecosystem 🇬 Golang Noob
+♨️ Java 🌱 Spring Ecosystem
+🇬olang Noob 🇨++ Novice
 📜 BC at UIT - VNUHCM
-💡 Problem Solver
-👨🏻‍💻 Learning Microservices
+👨🏻‍💻 Learning Microservices & System Architecture
 ⛅😃 Good things take time...
 	
 </pre>
