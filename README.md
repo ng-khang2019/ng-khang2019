@@ -8,10 +8,11 @@
 <br><br>  -->
 <pre>
 👋 I'm Khang
+📜 Bachelor of IT at UIT - VNUHCM
+⚗️ Ex-Chemistry Student at HCMUS - VNUHCM
 ♨️ Java 🌱 Spring Ecosystem
 🇬olang Noob 🇨++ Novice
-📜 BC at UIT - VNUHCM
-👨🏻‍💻 Learning Microservices & System Architecture
+👨🏻‍💻 Learning Microservices & System Designs
 ⛅😃 Good things take time...
 	
 </pre>
