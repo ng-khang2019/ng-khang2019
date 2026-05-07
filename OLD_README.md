@@ -24,7 +24,7 @@
     <p><i>...And also trying to live a happy life 🏝️</i></p>
 </div>
 <div>
-    <img src="https://readme-stats-mika0798.vercel.app/api?username=mika0798&hide=stars&show_icons=true&theme=tokyonight&bg_color=0,000000,490bdb" />
+    <img src="https://readme-stats-mika0798.vercel.app/api?username=ng-khang2019&hide=stars&show_icons=true&theme=tokyonight&bg_color=0,000000,490bdb" />
 </div>
 <h3>📚 Tech Stack</h3>
 <br>
@@ -75,20 +75,20 @@
 <details>
     <summary><h3>⚡ Github Stats</h3></summary>
     <div align="center">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mika0798&theme=nightowl&background=0,000000,300082,360082&short_numbers=true"
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ng-khang2019&theme=nightowl&background=0,000000,300082,360082&short_numbers=true"
             width="57%">
-        <img src="https://readme-stats-mika0798.vercel.app/api/top-langs?username=mika0798&theme=nightowl&bg_color=0,360082,3d0082,430082,470082&title_color=b34ecf&show_icons=true&locale=en&layout=compact"
+        <img src="https://readme-stats-mika0798.vercel.app/api/top-langs?username=ng-khang2019&theme=nightowl&bg_color=0,360082,3d0082,430082,470082&title_color=b34ecf&show_icons=true&locale=en&layout=compact"
             width="41%">
     </div>
     <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mika0798&theme=nightowl&bg_color=360082&radius=12&custom_title=Khang's%20Contributions&title_color=b34ecf&grid=false" width="98%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ng-khang2019&theme=nightowl&bg_color=360082&radius=12&custom_title=Khang's%20Contributions&title_color=b34ecf&grid=false" width="98%">
     </div>
 </details>
 <details>
     <summary><h3>⚡ Leetcode Stats</h3></summary>
     <div align="center">
-        <img src="https://leetcard.jacoblin.cool/mika0798?theme=dark&font=Nokora&colors=360082%2C6628ad%2C6e4acf%2Cb34ecf%2C6d79e3%2C1cc736%2Ce69215%2Ce62a15&ext=activity" width="57%">
-        <img src="https://raw.githubusercontent.com/mika0798/mika0798/refs/heads/main/images/giphy%20(3).gif" width="42%">
+        <img src="https://leetcard.jacoblin.cool/ng-khang2019?theme=dark&font=Nokora&colors=360082%2C6628ad%2C6e4acf%2Cb34ecf%2C6d79e3%2C1cc736%2Ce69215%2Ce62a15&ext=activity" width="57%">
+        <img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/giphy%20(3).gif" width="42%">
     </div>
 </details>
 <details>
