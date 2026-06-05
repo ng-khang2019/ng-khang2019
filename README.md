@@ -15,7 +15,7 @@
 	
 </pre>
 </div>
-<p align="center">
+<!-- <p align="center">
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="60"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="60"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-dark.svg" width="60"></a>
@@ -28,7 +28,7 @@
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elasticsearch-dark.svg" width="60"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/logstash-dark.svg" width="60"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kibana-dark.svg" width="60"></a>
-</p>
+</p> -->
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,go,cpp,ai,linux,kubernetes,docker" />
