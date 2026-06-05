@@ -8,30 +8,32 @@
 <br><br>  -->
 <pre>
 👋 I'm Khang
-📜 Bachelor of IT at UIT - VNUHCM
-⚗️ Ex-Chemistry Student at HCMUS - VNUHCM
-♨️ Java 🌱 Spring Ecosystem
-🇬olang Noob 🇨++ Novice
+💤 Professional Daydreamer
+🐣 Novice in Everything
 👨🏻‍💻 Learning Microservices & System Designs
 ⛅😃 Good things take time...
 	
 </pre>
 </div>
-<!-- <div>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/prometheus.svg" width="40"></a>
-	<a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/loki-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elasticsearch-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/logstash-dark.svg" width="40"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kibana-dark.svg" width="40"></a>
-</div> -->
-	
+<p align="center">
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redis-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/rabbitmq-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachekafka-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/prometheus.svg" width="60"></a>
+	<a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/loki-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/elasticsearch-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/logstash-dark.svg" width="60"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kibana-dark.svg" width="60"></a>
+</p>
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,go,cpp,ai,linux,kubernetes,docker" />
+  </a>
+</p> -->
 <div align="center">
     <!-- <img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/86f51547b2178e6fc398ce785a47ac76.gif" > -->
 	<img src="https://raw.githubusercontent.com/ng-khang2019/ng-khang2019/refs/heads/main/images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
