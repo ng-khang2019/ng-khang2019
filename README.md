@@ -10,7 +10,7 @@
 👋 I'm Khang
 💤 Professional Daydreamer
 🐣 Novice in Everything
-👨🏻‍💻 Learning Microservices & System Designs
+👨🏻‍💻 Microservices & System Designs
 ⛅😃 Good things take time...
 	
 </pre>
